@@ -1,0 +1,9 @@
+# FinFlow - FX Rate Tracker Dependencies
+
+# HTTP requests library for API calls
+requests>=2.28.0
+
+# Testing framework
+pytest>=7.0.0
+
+# SQLite is part of Python standard library, no additional package needed
